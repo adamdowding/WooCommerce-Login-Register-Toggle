@@ -1,3 +1,4 @@
+<?php
 function toggle_login_register(){
 	if(!is_user_logged_in()){
 	?>
